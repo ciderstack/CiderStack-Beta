@@ -123,6 +123,9 @@ When we can sign the package. Until then, the beta is free. Join the beta or wat
 **What's the 2-VM limit?**  
 Apple's Virtualization.framework only allows 2 macOS VMs to run at the same time per Mac. You can create and store unlimited VMs; only 2 can be running at once. That's a platform limit, not a CiderStack limit.
 
+**I can't use the App Store?**
+This is a limitation by Apple and is not supported with the current hypervisor framework
+
 ---
 
 ## Feedback and beta signup
