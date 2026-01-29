@@ -16,7 +16,7 @@ CiderStack is in **open public beta**. The installer is distributed as an **unsi
 
 ## Installing the unsigned PKG
 
-1. **Download** the latest `.pkg` from [Releases](https://github.com/your-org/CiderStack-Beta/releases) (or replace with your beta download link).
+1. **Download** the latest `.pkg` from [Releases](https://github.com/ciderstack/CiderStack-Beta/releases/tag/beta)
 2. **Run the PKG.** macOS may block it with a message like "cannot be opened because the developer cannot be verified."
 3. **Allow the installer:**
    - Open **System Settings → Privacy & Security**.
